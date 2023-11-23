@@ -1,0 +1,1 @@
+import{_ as e,b as t,e as c,g as o}from"../index84941.js";const s={},n=o("h2",null,"PRENOTAZIONI A DATA APERTA",-1),r=[n];function _(a,d){return t(),c("div",null,r)}const i=e(s,[["render",_]]);export{i as default};
