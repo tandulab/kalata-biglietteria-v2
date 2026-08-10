@@ -1,0 +1,1 @@
+import{z as r}from"../index96312.js";const i=r({id:"newOrderDialog",state:()=>({_showNewOrderDialog:!1}),getters:{showNewOrderDialog:e=>e._showNewOrderDialog},actions:{setNewOrderDialogVisibility(e){this.updateNewOrderDialog(e)},updateNewOrderDialog(e){this._showNewOrderDialog=e}}});export{i as u};
